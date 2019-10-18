@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="bba8fd1b-7e7b-455b-b689-1c05b048ad47" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="84785117-3695-4c12-9407-f36421a16ba4" name="Default Changelist" comment="" />
->>>>>>> first commit
+    <list default="true" id="6b15d763-4a31-4105-9897-551c3ef691e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoang_P1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoang_P1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hoang_P1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hoang_P2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hoang_P2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hoang_P2/com/company/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hoang_P2/com/company/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SavingsAccount.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="1SIm2OggVWSyJom33GeEO9tgrk0" />
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,13 +27,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SOAzquLJiSpyorAuWv4e7wKOc9" />
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.company" />
-    </key>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
->>>>>>> first commit
+  <component name="ProjectId" id="1SOddHQNyEmRmccn42Xt0MMsDIm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -44,11 +50,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-<<<<<<< HEAD
-      <module name="Hoang_P1" />
-=======
       <module name="Hoang_P2" />
->>>>>>> first commit
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -67,20 +69,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="bba8fd1b-7e7b-455b-b689-1c05b048ad47" name="Default Changelist" comment="" />
-      <created>1571259275506</created>
+      <changelist id="6b15d763-4a31-4105-9897-551c3ef691e1" name="Default Changelist" comment="" />
+      <created>1571438661745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571259275506</updated>
-=======
-      <changelist id="84785117-3695-4c12-9407-f36421a16ba4" name="Default Changelist" comment="" />
-      <created>1571424533328</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1571424533328</updated>
->>>>>>> first commit
+      <updated>1571438661745</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

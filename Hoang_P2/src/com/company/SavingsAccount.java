@@ -1,23 +1,22 @@
 package com.company;
 
 public class SavingsAccount {
-    public static double annualInterestRate = 0.0;
-    private  double savingsBalance;
+    public static double annualInterestRate;
+    private double savingsBalance;
 
-    public SavingsAccount(double v) {
+
+    public SavingsAccount(double v){
         this.savingsBalance = v;
     }
 
-
-    public void calculateMonthlyInterest()
-    {
-        double monthlyInterest = (this.savingsBalance * annualInterestRate) / 12;
-        this.savingsBalance = this.savingsBalance + monthlyInterest;
-        System.out.printf("$%.2f" ,this.savingsBalance);
+    public void calculateMonthlyInterest(){
+        double interest = (this.savingsBalance * annualInterestRate) / 12;
+        this.savingsBalance = this.savingsBalance + interest;
+        System.out.printf("$%.2f", this.savingsBalance);
+        System.out.print("\t\t");
     }
 
-    public static void modifyInterestRate(double rate)
-    {
+    public static void modifyInterestRate(double rate){
         annualInterestRate = rate;
     }
 }
